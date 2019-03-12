@@ -1,0 +1,15 @@
+#% Do not delete the line below; configure depends on this.
+#  \DeclareLaTeXClass{Standalone}
+#  \DeclareCategory{Miscellaneous}
+# Standalone textclass definition file.
+# The standalone class is useful to generate PDF versions of individual
+# diagrams without the wasted margin space from embedding them in a print page.
+# The layout allows quite a few environments that likely are not useful
+# with this class.
+# Author : Paul A. Rubin <rubin@msu.edu>
+
+Format 66
+Input stdclass.inc
+
+
+
